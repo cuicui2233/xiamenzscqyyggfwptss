@@ -1,0 +1,103 @@
+﻿.ax_default {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+._默认样式 {
+}
+._图片 {
+}
+.heading_2 {
+  font-family:'微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._自由编辑 {
+  color:#333333;
+}
+._鼠标按下文本链接时 {
+}
+.image {
+}
+._形状 {
+}
+._文本段落 {
+  text-align:left;
+}
+.box_2 {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.box_3 {
+}
+.ellipse {
+}
+.icon {
+}
+._鼠标悬停文本链接时 {
+}
+.paragraph {
+  text-align:left;
+}
+.shape {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._文本段落1 {
+  text-align:left;
+}
+.flow_shape {
+}
+.link_button {
+  color:#169BD5;
+}
+._表格 {
+}
+._一级标题 {
+  font-family:'微软雅黑';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.button {
+}
