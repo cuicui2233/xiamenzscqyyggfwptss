@@ -48,6 +48,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -59,8 +61,14 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .html_button {
   text-align:center;
+}
+.sticky_4 {
+  text-align:left;
 }
 .box_3 {
 }
