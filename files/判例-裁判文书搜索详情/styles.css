@@ -4,7 +4,7 @@
   background-image:none;
   position:relative;
   left:-0px;
-  width:1308px;
+  width:2170px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -2216,5 +2216,27 @@
   left:2px;
   top:0px;
   width:863px;
+  word-wrap:break-word;
+}
+#u1863_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:852px;
+  height:794px;
+}
+#u1863 {
+  position:absolute;
+  left:1318px;
+  top:258px;
+  width:852px;
+  height:794px;
+}
+#u1864 {
+  position:absolute;
+  left:2px;
+  top:389px;
+  width:848px;
+  visibility:hidden;
   word-wrap:break-word;
 }
